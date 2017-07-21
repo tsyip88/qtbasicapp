@@ -1,0 +1,6 @@
+Package: testApp
+Version: 1.0
+Maintainer: TY
+Architecture: amd64
+Description: Test App
+Depends: qt5-default
